@@ -7,3 +7,5 @@
 ## Configure Applications to Store, Analyze and Report on Potential Threats
 
 - [Configuration](https://github.com/earthdefensenetwork/raspi0w-camera/wiki)
+
+## This project can also be done with an Arduino 101!
